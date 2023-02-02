@@ -19,8 +19,6 @@ b) Criação de um dashboard utilizando o PowerBI.
 Agendaremos uma data para que você possa nos apresentar as duas partes do desafio e
 possamos tirar dúvidas e aprender juntos.
 
-neoway.com.br
-
 Parte 1 - Desenvolvimento do ETL
 Você deve realizar a extração dos dados fornecidos pela API pública RandomUser, realizar
 algumas transformações nos dados e apresentá-los em um Dashboard criado no PowerBI.
@@ -36,8 +34,6 @@ são interessantes para nós:
 gender, name.first, name.last, dob.date, email, phone, cell, nat, location.street.name,
 location.street.number, location.city, location.postcode, location.country,
 location.coordinates.latitude, location.coordinates.longitude, registered.date.
-
-neoway.com.br
 
 Transformação/Transform
 - Além das orientações abaixo, você deve padronizar e higienizar os dados da forma que
@@ -67,8 +63,6 @@ MySQL.
 Entidades de Relacionamento aplicando regras de normalização.
 - Você deve seguir as boas práticas de utilização de tipos de dados, nomes de tabelas e
 colunas.
-
-neoway.com.br
 
 Parte 2 - Criação do painel no PowerBI
 Agora que você já armazenou os 5.000 registros aleatórios, extraídos da API RandomUser, você
