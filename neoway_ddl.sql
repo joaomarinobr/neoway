@@ -13,8 +13,8 @@ CREATE TABLE tb_user_address (
     state varchar(60) NOT NULL,
     country varchar(10) NOT NULL,
     postcode varchar(10) NOT NULL,
-    latitude numeric NOT NULL,
-    longitude numeric NOT NULL,
+    latitude decimal(11,7) NOT NULL,
+    longitude decimal(11,7) NOT NULL,
     PRIMARY KEY(user_address_id)
 );
 
